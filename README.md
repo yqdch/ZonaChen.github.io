@@ -1,6 +1,5 @@
 ## yqdch's blog
 
-View:[yqdch.me][1]
+View:[yqdch.me](http://www.yqdch.me)
 
 
-  [1]:www.yqdch.me
